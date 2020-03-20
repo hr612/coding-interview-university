@@ -1,5 +1,5 @@
 ## Don't feel you aren't smart enough
-- [The myth of the Genius Prog 	rammer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## Interview Process & General Interview Prep
@@ -708,6 +708,9 @@ Challenge Sites:
     - [Understanding The FFT](http://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
 
 - ### Bloom Filter
+    - [Algorithms Stanford Course](##Algorithms)
+
+- ### Randomized Algorithms
     - [Algorithms Stanford Course](##Algorithms)
 
 - ### HyperLogLog
