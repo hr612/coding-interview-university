@@ -77,7 +77,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [ ] [Shortest Paths : Bellman Ford, Floyd Warshall](https://www.coursera.org/learn/algorithms-npcomplete)
 
 ## Data Structures
-
+- The Art of Computer Programming
 - ### Arrays
     - [ ] Description:
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
